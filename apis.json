@@ -1,0 +1,76 @@
+{
+    "name": "Locu",
+    "description": "Locu was acquired by GoDaddy in August of 2013 and re-branded as Get Found business listings. For support for the Locu API or Locu please contact GoDaddy at (480) 505-8877 or via the GoDaddy Facebook account at www.facebook.com\/GoDaddy",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1339-locu.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "menus",
+        "restaurants",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/locu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Locu",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1339-locu.jpg",
+            "humanURL": "http:\/\/locu.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/locu-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/locu-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.locu.com\/v2\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/alacarte.locu.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/locu"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/locu"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dev.locu.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Locu"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LocuAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LocuInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/locu.com\/"
+        }
+    ]
+}
